@@ -74,7 +74,7 @@ Job-Skill-Extractor/
 ├── prompt.py
 ├── parser.py
 ├── requirements.txt
-├── .env
+├── .gitignore
 └── README.md
 ```
 
